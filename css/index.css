@@ -97,3 +97,35 @@ body{
     height: 2px; /* Adjust the height of the gradient line as needed */
     background: linear-gradient(90deg, #00cc00 50%, #00cc00 50%);
 }
+
+.custom-bg-green {
+    background-color: green;
+    /* You can adjust the shade of green as needed */
+    color: white; /* You may also want to adjust the text color for readability */
+}
+a.read-more-link {
+    color: green;
+}
+
+.text-green {
+    color: green;
+}
+
+.footer hr {
+    margin: 0; /* Remove margin */
+    padding: 0; /* Remove padding */
+    border: none; /* Remove border */
+}
+.hr-container {
+    height: 1px;
+    margin: 0;
+    padding: 0;
+}
+
+.custom-hr {
+    border: none;
+    background-color: #9d9c9c; /* Adjust the background color as needed */
+    height: 2px;
+    margin: 0;
+    padding: 0;
+}
